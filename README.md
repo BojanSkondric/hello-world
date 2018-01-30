@@ -1,2 +1,3 @@
 # hello-world
-Just another repository 
+Hi I am Bojan and this is my first using GitHub serices.
+I hope in future I will use this software very often.
